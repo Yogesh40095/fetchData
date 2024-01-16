@@ -1,0 +1,19 @@
+body{
+  /* background-color: grey; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+.header{
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  background-color: rgb(172, 172, 196);
+  
+  padding: 8px;
+  cursor: pointer;
+}
+h1{
+  margin: 0;
+}
